@@ -1,0 +1,14 @@
+{
+ "man": [
+  {
+   "username": "学号",
+   "password": "密码",
+   "email": "收件人邮箱",
+   "last_num": 0,
+   "name": [
+   ]
+  }
+ ],
+  "sendEmail": "发件人邮箱",
+  "sendPass": "发件人邮箱授权码"
+}
